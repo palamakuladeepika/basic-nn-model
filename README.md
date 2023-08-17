@@ -10,7 +10,7 @@ Explain the problem statement
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+<img width="542" alt="5DL Output" src="https://github.com/palamakuladeepika/basic-nn-model/assets/94154679/805127af-a950-439d-a90a-874c100368b6">
 
 ## DESIGN STEPS
 
